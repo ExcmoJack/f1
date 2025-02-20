@@ -1,4 +1,5 @@
-obj_fileJson = null;
+import obj_fileJson from "../../data/files.json" with { type: "json" };
+// obj_fileJson = null;
 
 obj_calendarJson = null;
 obj_pointsJson = null;
@@ -20,8 +21,9 @@ function main() {
 };
 
 function getDataFromJson(str_filename) {
+    let parent = window.location.pathname;
     var jsonContent;
-    const requestURL = "/data/" + str_filename + ".json";
+    const requestURL = parent + "data/" + str_filename + ".json";
     const request = new XMLHttpRequest();
 
     request.open("GET", requestURL);
