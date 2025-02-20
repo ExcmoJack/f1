@@ -1,0 +1,131 @@
+{
+    "schedule":
+    {
+        "1":  {"gp": "Australia", "events":
+                 [
+                     {"type": "race", "date": [16, 3, 2025], "time": 600}
+                 ]
+              },
+        "2":  {"gp": "China", "events":
+                 [
+                     {"type": "sprint", "date": [22, 3, 2025], "time": 500},
+                     {"type": "race", "date": [23, 3, 2025], "time": 700}
+                 ]
+              },
+        "3":  {"gp": "Japan", "events":
+                 [
+                     {"type": "race", "date": [6, 4, 2025], "time": 700}
+                 ]
+              },
+        "4":  {"gp": "Bahrain", "events":
+                 [
+                     {"type": "race", "date": [13, 4, 2025], "time": 1600}
+                 ]
+              },
+        "5":  {"gp": "Saudi Arabia", "events":
+                 [
+                     {"type": "race", "date": [20, 4, 2025], "time": 1800}
+                 ]
+              },
+        "6":  {"gp": "Miami", "events":
+                 [
+                     {"type": "sprint", "date": [3, 5, 2025], "time": 1800},
+                     {"type": "race", "date": [4, 5, 2025], "time": 2100}
+                 ]
+              },
+        "7":  {"gp": "Emilia-Romagna", "events":
+                 [
+                     {"type": "race", "date": [18, 5, 2025], "time": 1500}
+                 ]
+              },
+        "8":  {"gp": "Monaco", "events":
+                 [
+                     {"type": "race", "date": [25, 5, 2025], "time": 1500}
+                 ]
+              },
+        "9":  {"gp": "Spain", "events":
+                 [
+                     {"type": "race", "date": [1, 6, 2025], "time": 1500}
+                 ]
+              },
+        "10": {"gp": "Canada", "events":
+                 [
+                     {"type": "race", "date": [15, 6, 2025], "time": 2000}
+                 ]
+              },
+        "11": {"gp": "Austria", "events":
+                 [
+                     {"type": "race", "date": [29, 6, 2025], "time": 1500}
+                    ]
+                },
+        "12": {"gp": "Great Britain", "events":
+                [
+                    {"type": "race", "date": [6, 7, 2025], "time": 1600}
+                ]
+            },
+        "13": {"gp": "Belgium", "events":
+            [
+                     {"type": "sprint", "date": [26, 7, 2025], "time": 1200},
+                     {"type": "race", "date": [27, 7, 2025], "time": 1500}
+                 ]
+              },
+        "14": {"gp": "Hungary", "events":
+                 [
+                     {"type": "race", "date": [3, 8, 2025], "time": 1500}
+                 ]
+              },
+        "15": {"gp": "Netherlands", "events":
+                 [
+                     {"type": "race", "date": [31, 8, 2025], "time": 1500}
+                 ]
+              },
+        "16":  {"gp": "Italy", "events":
+                 [
+                     {"type": "race", "date": [7, 9, 2025], "time": 1500}
+                 ]
+              },
+        "17": {"gp": "Azerbaijan", "events":
+                 [
+                     {"type": "race", "date": [21, 9, 2025], "time": 1300}
+                 ]
+              },
+        "18": {"gp": "Singapore", "events":
+                 [
+                     {"type": "race", "date": [5, 10, 2025], "time": 1300}
+                 ]
+              },
+        "19": {"gp": "United States", "events":
+                 [
+                     {"type": "sprint", "date": [18, 10, 2025], "time": 2000},
+                     {"type": "race", "date": [19, 10, 2025], "time": 2100}
+                 ]
+              },
+        "20": {"gp": "Mexico", "events":
+                 [
+                     {"type": "race", "date": [26, 10, 2025], "time": 2100}
+                 ]
+              },
+        "21": {"gp": "Brazil", "events":
+                 [
+                     {"type": "sprint", "date": [8, 11, 2025], "time": 1600},
+                     {"type": "race", "date": [9, 11, 2025], "time": 1800}
+                 ]
+              },
+        "22": {"gp": "Las Vegas", "events":
+                 [
+                     {"type": "race", "date": [22, 11, 2025], "time": 700}
+                 ]
+              },
+        "23": {"gp": "Qatar", "events":
+                 [
+                     {"type": "sprint", "date": [29, 11, 2025], "time": 1200},
+                     {"type": "race", "date": [30, 11, 2025], "time": 1600}
+                 ]
+              },
+        "24": {"gp": "Abu Dhabi", "events":
+                 [
+                     {"type": "race", "date": [7, 12, 2025], "time": 1400}
+                 ]
+              }
+    }
+}

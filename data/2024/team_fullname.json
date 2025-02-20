@@ -1,0 +1,15 @@
+{
+    "teams":
+    [
+        {"id": "RBR", "fullname": "Red Bull Racing Honda RBPT"},
+        {"id": "MER", "fullname": "Mercedes"},
+        {"id": "FER", "fullname": "Ferrari"},
+        {"id": "MCL", "fullname": "McLaren Mercedes"},
+        {"id": "AMR", "fullname": "Aston Martin Aramco Mercedes"},
+        {"id": "ALP", "fullname": "Alpine Renault"},
+        {"id": "WIL", "fullname": "Williams Mercedes"},
+        {"id": "RAC", "fullname": "RB Honda RBPT"},
+        {"id": "SAU", "fullname": "Kick Sauber Ferrari"},
+        {"id": "HAA", "fullname": "Haas Ferrari"}
+    ]
+}

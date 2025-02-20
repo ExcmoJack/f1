@@ -1,0 +1,131 @@
+{
+    "schedule":
+    {
+        "1":  {"gp": "Bahrain", "events":
+                 [
+                     {"type": "race", "date": [2, 3, 2024]}
+                 ]
+              },
+        "2":  {"gp": "Saudi Arabia", "events":
+                 [
+                     {"type": "race", "date": [9, 3, 2024]}
+                 ]
+              },
+        "3":  {"gp": "Australia", "events":
+                 [
+                     {"type": "race", "date": [24, 3, 2024]}
+                 ]
+              },
+        "4":  {"gp": "Japan", "events":
+                 [
+                     {"type": "race", "date": [7, 4, 2024]}
+                 ]
+              },
+        "5":  {"gp": "China", "events":
+                 [
+                     {"type": "sprint", "date": [20, 4, 2024]},
+                     {"type": "race", "date": [21, 4, 2024]}
+                 ]
+              },
+        "6":  {"gp": "Miami", "events":
+                 [
+                     {"type": "sprint", "date": [4, 5, 2024]},
+                     {"type": "race", "date": [5, 5, 2024]}
+                 ]
+              },
+        "7":  {"gp": "Emilia-Romagna", "events":
+                 [
+                     {"type": "race", "date": [19, 5, 2024]}
+                 ]
+              },
+        "8":  {"gp": "Monaco", "events":
+                 [
+                     {"type": "race", "date": [26, 5, 2024]}
+                 ]
+              },
+        "9":  {"gp": "Canada", "events":
+                 [
+                     {"type": "race", "date": [9, 6, 2024]}
+                 ]
+              },
+        "10": {"gp": "Spain", "events":
+                 [
+                     {"type": "race", "date": [23, 6, 2024]}
+                 ]
+              },
+        "11": {"gp": "Austria", "events":
+                 [
+                     {"type": "sprint", "date": [29, 6, 2024]},
+                     {"type": "race", "date": [30, 6, 2024]}
+                 ]
+              },
+        "12": {"gp": "Great Britain", "events":
+                 [
+                     {"type": "race", "date": [7, 7, 2024]}
+                 ]
+              },
+        "13": {"gp": "Hungary", "events":
+                 [
+                     {"type": "race", "date": [21, 7, 2024]}
+                 ]
+              },
+        "14": {"gp": "Belgium", "events":
+                 [
+                     {"type": "race", "date": [28, 7, 2024]}
+                 ]
+              },
+        "15": {"gp": "Netherlands", "events":
+                 [
+                     {"type": "race", "date": [25, 8, 2024]}
+                 ]
+              },
+        "16":  {"gp": "Italy", "events":
+                 [
+                     {"type": "race", "date": [1, 9, 2024]}
+                 ]
+              },
+        "17": {"gp": "Azerbaijan", "events":
+                 [
+                     {"type": "race", "date": [15, 9, 2024]}
+                 ]
+              },
+        "18": {"gp": "Singapore", "events":
+                 [
+                     {"type": "race", "date": [22, 9, 2024]}
+                 ]
+              },
+        "19": {"gp": "United States", "events":
+                 [
+                     {"type": "sprint", "date": [19, 10, 2024]},
+                     {"type": "race", "date": [20, 10, 2024]}
+                 ]
+              },
+        "20": {"gp": "Mexico", "events":
+                 [
+                     {"type": "race", "date": [27, 10, 2024]}
+                 ]
+              },
+        "21": {"gp": "Brazil", "events":
+                 [
+                     {"type": "sprint", "date": [2, 11, 2024]},
+                     {"type": "race", "date": [3, 11, 2024]}
+                 ]
+              },
+        "22": {"gp": "Las Vegas", "events":
+                 [
+                     {"type": "race", "date": [23, 11, 2024]}
+                 ]
+              },
+        "23": {"gp": "Qatar", "events":
+                 [
+                     {"type": "sprint", "date": [30, 11, 2024]},
+                     {"type": "race", "date": [1, 12, 2024]}
+                 ]
+              },
+        "24": {"gp": "Abu Dhabi", "events":
+                 [
+                     {"type": "race", "date": [8, 12, 2024]}
+                 ]
+              }
+    }
+}

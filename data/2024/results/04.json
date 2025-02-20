@@ -1,0 +1,28 @@
+{
+    "round": "4",
+    "sprint": null,
+    "race": 
+    {
+        "1": ["VER", "RBR"],
+        "2": ["PER", "RBR"],
+        "3": ["SAI", "FER"],
+        "4": ["LEC", "FER"],
+        "5": ["NOR", "MCL"],
+        "6": ["ALO", "AMR"],
+        "7": ["RUS", "MER"],
+        "8": ["PIA", "MCL"],
+        "9": ["HAM", "MER"],
+        "10": ["TSU", "RAC"],
+        "11": ["HUL", "HAA"],
+        "12": ["STR", "AMR"],
+        "13": ["MAG", "HAA"],
+        "14": ["BOT", "SAU"],
+        "15": ["OCO", "ALP"],
+        "16": ["GAS", "ALP"],
+        "17": ["SAR", "WIL"],
+        "18": ["ZHO", "SAU"],
+        "19": ["RIC", "RAC"],
+        "20": ["ALB", "WIL"]
+    },
+    "fastest_lap": ["VER", "RBR"]
+}

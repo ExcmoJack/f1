@@ -1,0 +1,29 @@
+{
+    "drivers":
+    {
+        "1":  {"id": "VER", "country": "NED", "car": "1",  "name": "Max Verstappen"},
+        "2":  {"id": "PER", "country": "MEX", "car": "11", "name": "Sergio Perez"},
+        "3":  {"id": "HAM", "country": "GBR", "car": "44", "name": "Lewis Hamilton"},
+        "4":  {"id": "RUS", "country": "GBR", "car": "63", "name": "George Russell"},
+        "5":  {"id": "LEC", "country": "MON", "car": "16", "name": "Charles Leclerc"},
+        "6":  {"id": "SAI", "country": "ESP", "car": "55", "name": "Carlos Sainz"},
+        "7":  {"id": "NOR", "country": "GBR", "car": "4",  "name": "Lando Norris"},
+        "8":  {"id": "PIA", "country": "AUS", "car": "81", "name": "Oscar Piastri"},
+        "9":  {"id": "ALO", "country": "ESP", "car": "14", "name": "Fernando Alonso"},
+        "10": {"id": "STR", "country": "CAN", "car": "18", "name": "Lance Stroll"},
+        "11": {"id": "OCO", "country": "FRA", "car": "31", "name": "Esteban Ocon"},
+        "12": {"id": "GAS", "country": "FRA", "car": "10", "name": "Pierre Gasly"},
+        "13": {"id": "ALB", "country": "THA", "car": "23", "name": "Alexander Albon"},
+        "14": {"id": "SAR", "country": "USA", "car": "2",  "name": "Logan Sargeant"},
+        "15": {"id": "TSU", "country": "JPN", "car": "22", "name": "Yuki Tsunoda"},
+        "16": {"id": "RIC", "country": "AUS", "car": "3",  "name": "Daniel Ricciardo"},
+        "17": {"id": "BOT", "country": "FIN", "car": "77", "name": "Valtteri Bottas"},
+        "18": {"id": "ZHO", "country": "CHN", "car": "24", "name": "Zhou Guanyu"},
+        "19": {"id": "MAG", "country": "DEN", "car": "20", "name": "Kevin Magnussen"},
+        "20": {"id": "HUL", "country": "GER", "car": "27", "name": "Nico Hulkenberg"},
+        "21": {"id": "BEA", "country": "GBR", "car": "50", "name": "Oliver Bearman"},
+        "22": {"id": "LAW", "country": "NZL", "car": "30", "name": "Liam Lawson"},
+        "23": {"id": "COL", "country": "NED", "car": "43", "name": "Franco Colapinto"},
+        "24": {"id": "DOO", "country": "AUS", "car": "61", "name": "Jack Doohan"}
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "round": "5",
+    "sprint": 
+    {
+        "1": ["VER", "RBR"],
+        "2": ["HAM", "MER"],
+        "3": ["PER", "RBR"],
+        "4": ["LEC", "FER"],
+        "5": ["SAI", "FER"],
+        "6": ["NOR", "MCL"],
+        "7": ["PIA", "MCL"],
+        "8": ["RUS", "MER"],
+        "9": ["ZHO", "SAU"],
+        "10": ["MAG", "HAA"],
+        "11": ["RIC", "RAC"],
+        "12": ["BOT", "SAU"],
+        "13": ["OCO", "ALP"],
+        "14": ["STR", "AMR"],
+        "15": ["GAS", "ALP"],
+        "16": ["TSU", "RAC"],
+        "17": ["ALB", "WIL"],
+        "18": ["SAR", "WIL"],
+        "19": ["HUL", "HAA"],
+        "20": ["ALO", "AMR"]
+    },
+    "race": 
+    {
+        "1": ["VER", "RBR"],
+        "2": ["NOR", "MCL"],
+        "3": ["PER", "RBR"],
+        "4": ["LEC", "FER"],
+        "5": ["SAI", "FER"],
+        "6": ["RUS", "MER"],
+        "7": ["ALO", "AMR"],
+        "8": ["PIA", "MCL"],
+        "9": ["HAM", "MER"],
+        "10": ["HUL", "HAA"],
+        "11": ["OCO", "ALP"],
+        "12": ["ALB", "WIL"],
+        "13": ["GAS", "ALP"],
+        "14": ["ZHO", "SAU"],
+        "15": ["STR", "AMR"],
+        "16": ["MAG", "HAA"],
+        "17": ["SAR", "WIL"],
+        "18": ["RIC", "RAC"],
+        "19": ["TSU", "RAC"],
+        "20": ["BOT", "SAU"]
+    },
+    "fastest_lap": ["ALO", "AMR"]
+}

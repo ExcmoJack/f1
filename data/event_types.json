@@ -1,0 +1,10 @@
+{
+    "event_types":
+    [
+        {"type": "fp", "name": "Free Practice"},
+        {"type": "qualy", "name": "Qualifying"},
+        {"type": "shootout", "name": "Sprint Shootout"},
+        {"type": "sprint", "name": "Sprint Race"},
+        {"type": "race", "name": "Race"}
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "constructors":
+    {
+        "1":  {"id": "RBR", "country": "AUT", "team": "Red Bull Racing", "engine": "Honda RBPT", "color": ["#000000", "#FFFFFF"]},
+        "2":  {"id": "MER", "country": "GER", "team": "Mercedes", "engine": "Mercedes", "color": ["#000000", "#FFFFFF"]},
+        "3":  {"id": "FER", "country": "ITA", "team": "Ferrari", "engine": "Ferrari", "color": ["#000000", "#FFFFFF"]},
+        "4":  {"id": "MCL", "country": "GBR", "team": "McLaren", "engine": "Mercedes", "color": ["#000000", "#FFFFFF"]},
+        "5":  {"id": "AMR", "country": "GBR", "team": "Aston Martin", "engine": "Mercedes", "color": ["#000000", "#FFFFFF"]},
+        "6":  {"id": "ALP", "country": "FRA", "team": "Alpine", "engine": "Renault", "color": ["#000000", "#FFFFFF"]},
+        "7":  {"id": "WIL", "country": "GBR", "team": "Williams", "engine": "Mercedes", "color": ["#000000", "#FFFFFF"]},
+        "8":  {"id": "RAC", "country": "ITA", "team": "RB", "engine": "Honda RBPT", "color": ["#000000", "#FFFFFF"]},
+        "9":  {"id": "SAU", "country": "SWI", "team": "Kick Sauber", "engine": "Ferrari", "color": ["#000000", "#FFFFFF"]},
+        "10": {"id": "HAA", "country": "USA", "team": "Haas", "engine": "Ferrari", "color": ["#000000", "#FFFFFF"]}
+    }
+}
